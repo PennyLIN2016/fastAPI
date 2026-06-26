@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+passlib[bcrypt]
+python-jose[cryptography]
+pydantic[email-validator]
+sqlite3  # usually comes with Python; no need to install
